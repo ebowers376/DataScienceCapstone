@@ -1,0 +1,12 @@
+torch>=2.1
+transformers>=4.44,<5
+datasets>=2.20
+evaluate
+rouge_score
+nltk
+accelerate
+numpy
+pandas
+matplotlib
+huggingface_hub
+jupyter

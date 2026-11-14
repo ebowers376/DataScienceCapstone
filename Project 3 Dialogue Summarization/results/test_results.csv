@@ -1,0 +1,5 @@
+method,rouge1,rouge2,rougeL,rougeLsum,avg_words,ms_per_dialogue
+lead3_baseline,31.34,8.68,24.21,29.67,23.6,0.0
+greedy,36.24,12.99,29.39,32.9,16.2,83.0
+beam4,37.49,14.09,30.42,34.02,15.3,136.1
+beam4_lp2.0,37.71,13.71,30.0,34.09,17.7,135.9
